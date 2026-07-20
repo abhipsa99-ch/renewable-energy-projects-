@@ -29,6 +29,10 @@ This repository showcases my academic and engineering projects in renewable ener
 - Wildlife conservation considerations
 - Sustainable wind energy development
 
+### Wind Turbine Construction
+
+Designed, assembled, and tested a small-scale horizontal-axis wind turbine at the National Technical University of Athens (NTUA). Evaluated aerodynamic performance by measuring the **Cp–λ (power coefficient–tip speed ratio)** curve in a wind tunnel and analyzed turbine efficiency under different operating conditions. This project strengthened my understanding of wind turbine aerodynamics, performance testing, and renewable energy systems.
+
 ## Skills Demonstrated
 
 - Renewable Energy Engineering
